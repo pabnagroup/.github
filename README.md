@@ -1,4 +1,9 @@
-# Pabna District
+# URLs
+- https://www.pabnagroup.net
+- https://news.pabnagroup.net
+- https://store.pabnagroup.net (Shopify)
+
+# About Pabna District
 
 Pabna is a district located in the northwestern part of Bangladesh. It is a part of the Rajshahi Division and is known for its rich cultural heritage and history.
 
